@@ -724,6 +724,7 @@
 * ⭐ **[Breezy Weather](https://github.com/breezy-weather/breezy-weather)**
 * ⭐ **[WeatherMaster](https://github.com/PranshulGG/WeatherMaster)**
 * ⭐ **[OpenWeather](https://play.google.com/store/apps/details?id=uk.co.openweather)**
+* ⭐ **[Windy]([https://play.google.com/store/apps/details?id=com.windyty.android])**
 * [OSS Weather](https://github.com/Akylas/oss-weather)
 * [AccuWeather](https://app.accuweather.com/app-download) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Rain](https://github.com/DarkMooNight/Rain)
